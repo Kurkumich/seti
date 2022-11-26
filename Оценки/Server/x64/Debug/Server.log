@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\kurku\OneDrive\Рабочий стол\Оценки\Server\Server.cpp(30,25): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+C:\Users\kurku\OneDrive\Рабочий стол\Оценки\Server\Server.cpp(43,29): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  Server.vcxproj -> C:\Users\kurku\OneDrive\Рабочий стол\Оценки\Server\x64\Debug\Server.exe

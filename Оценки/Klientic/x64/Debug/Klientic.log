@@ -1,0 +1,4 @@
+﻿  Klientic.cpp
+C:\Users\kurku\OneDrive\Рабочий стол\Оценки\Klientic\Klientic.cpp(14,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\kurku\OneDrive\Рабочий стол\Оценки\Klientic\Klientic.cpp(39,33): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  Klientic.vcxproj -> C:\Users\kurku\OneDrive\Рабочий стол\Оценки\Klientic\x64\Debug\Klientic.exe
